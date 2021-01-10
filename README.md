@@ -7,7 +7,7 @@ A man of few words. I enjoy the process of engineering solutions to challenging 
 <p align="center">
 👯 I’m looking to collaborate on more open source projects!
 </p>
-<a href="https://profile.codersrank.io/user/alewis729" target="blank" align="center"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alewis729" alt="Alfred's codersrank profile" /></a>
+<!-- <a href="https://profile.codersrank.io/user/alewis729" target="blank" align="center"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alewis729" alt="Alfred's codersrank profile" /></a> -->
 
 <!-- yhype github profile views  -->
 
